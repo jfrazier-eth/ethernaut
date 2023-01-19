@@ -1,5 +1,5 @@
-require('@nomiclabs/hardhat-truffle5');
-require('@openzeppelin/hardhat-upgrades');
+require("@nomiclabs/hardhat-truffle5");
+require("@openzeppelin/hardhat-upgrades");
 require("hardhat-gas-reporter");
 
 /**
@@ -9,7 +9,7 @@ module.exports = {
   solidity: {
     compilers: [
       {
-        version: '0.5.3',
+        version: "0.5.3",
         settings: {
           optimizer: {
             enabled: true,
@@ -18,7 +18,7 @@ module.exports = {
         },
       },
       {
-        version: '0.6.12',
+        version: "0.6.12",
         settings: {
           optimizer: {
             enabled: true,
@@ -27,7 +27,7 @@ module.exports = {
         },
       },
       {
-        version: '0.8.12',
+        version: "0.8.12",
         settings: {
           optimizer: {
             enabled: true,
@@ -38,10 +38,13 @@ module.exports = {
     ],
   },
   paths: {
-    artifacts: './build',
+    artifacts: "./build",
   },
   networks: {
     hardhat: {
+      chainId: 1337,
+    },
+    localhost: {
       chainId: 1337,
     },
   },
