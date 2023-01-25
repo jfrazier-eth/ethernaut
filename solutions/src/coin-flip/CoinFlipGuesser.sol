@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity 0.8.17;
 
 import {AbstractCoinFlip} from "./AbstractCoinFlip.sol";
 
@@ -7,7 +7,7 @@ contract CoinFlipGuesser {
     function submitGuess(
         AbstractCoinFlip _coinFlipContract
     ) public returns (bool) {
-        uint256 factor = _coinFlipContract.FACTOR();
+        uint256 factor = 57896044618658097711785492504343953926634992332820282019728792003956564819968;
 
         bool guess = _getGuess(factor);
 

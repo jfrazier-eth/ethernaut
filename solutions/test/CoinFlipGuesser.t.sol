@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.13;
+pragma solidity 0.8.17;
 
 import "forge-std/Test.sol";
-import "../src/CoinFlip.sol";
-import "../src/CoinFlipGuesser.sol";
+import "../src/coin-flip/CoinFlip.sol";
+import "../src/coin-flip/CoinFlipGuesser.sol";
 
 contract CoinFlipGuesserTest is Test {
     CoinFlipGuesser public guesser;

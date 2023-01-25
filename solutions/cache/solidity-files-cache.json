@@ -19,7 +19,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -59,7 +59,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -90,13 +90,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/CommonBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/ScriptBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/TestBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
@@ -108,7 +108,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -148,7 +148,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Script.sol/Script.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Script.sol/Script.json"
         }
       }
     },
@@ -160,7 +160,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -203,7 +203,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -233,7 +233,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdChains.sol/StdChains.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
@@ -245,7 +245,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -276,10 +276,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
@@ -291,7 +291,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -331,7 +331,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -361,7 +361,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
@@ -373,7 +373,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -401,7 +401,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdMath.sol/stdMath.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
@@ -413,7 +413,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -443,10 +443,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
@@ -458,7 +458,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -489,7 +489,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
@@ -501,7 +501,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -556,7 +556,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -584,10 +584,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/VmSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
@@ -599,7 +599,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -627,7 +627,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
@@ -639,7 +639,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -667,7 +667,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
@@ -679,7 +679,7 @@
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -707,19 +707,74 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
+        }
+      }
+    },
+    "script/CoinFlipGuesser.s.sol": {
+      "lastModificationDate": 1674229885221,
+      "contentHash": "fe317fafeef3565fbc395b7441e8e2a6",
+      "sourceName": "script/CoinFlipGuesser.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/coin-flip/AbstractCoinFlip.sol",
+        "src/coin-flip/CoinFlipGuesser.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "CoinFlipperGuesserScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlipGuesser.s.sol/CoinFlipperGuesserScript.json"
         }
       }
     },
     "script/Counter.s.sol": {
-      "lastModificationDate": 1674061351791,
-      "contentHash": "0705c52104730a78aef4aa6694175c81",
+      "lastModificationDate": 1674167432441,
+      "contentHash": "fa6bfa8ddc22ecde9bc56179e79320fd",
       "sourceName": "script/Counter.s.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -757,62 +812,22 @@
         "lib/forge-std/src/console2.sol",
         "lib/forge-std/src/interfaces/IMulticall3.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
         "CounterScript": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "Counter.s.sol/CounterScript.json"
         }
       }
     },
-    "src/AbstractCoinFlip.sol": {
-      "lastModificationDate": 1674164352075,
-      "contentHash": "511b815cf95c3a3acc5ebcf55d10f6fa",
-      "sourceName": "src/AbstractCoinFlip.sol",
+    "script/Delegate.s.sol": {
+      "lastModificationDate": 1674611102860,
+      "contentHash": "01127e45fbf1970c202d25a5a21ab19b",
+      "sourceName": "script/Delegate.s.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": "^0.8.0",
-      "artifacts": {
-        "AbstractCoinFlip": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "AbstractCoinFlip.sol/AbstractCoinFlip.json"
-        }
-      }
-    },
-    "src/CoinFlip.sol": {
-      "lastModificationDate": 1674164571417,
-      "contentHash": "0a8695de1d6180177dc588e609bbbc0e",
-      "sourceName": "src/CoinFlip.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -837,24 +852,36 @@
         }
       },
       "imports": [
-        "src/AbstractCoinFlip.sol"
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/delegate/Delegate.sol"
       ],
-      "versionRequirement": "^0.8.0",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
-        "CoinFlip": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlip.sol/CoinFlip.json"
+        "DelegateScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Delegate.s.sol/DelegateScript.json"
         }
       }
     },
-    "src/CoinFlipGuesser.sol": {
-      "lastModificationDate": 1674163970632,
-      "contentHash": "5500a815ecbae622ab3c776875332cc7",
-      "sourceName": "src/CoinFlipGuesser.sol",
+    "script/ProxyCall.s.sol": {
+      "lastModificationDate": 1674229399047,
+      "contentHash": "be616e6a8bc42d6e90fbd0e55f90102d",
+      "sourceName": "script/ProxyCall.s.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -879,24 +906,91 @@
         }
       },
       "imports": [
-        "src/AbstractCoinFlip.sol"
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/telephone/ProxyCall.sol",
+        "src/telephone/Telephone.sol"
       ],
-      "versionRequirement": "^0.8.0",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
-        "CoinFlipGuesser": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlipGuesser.sol/CoinFlipGuesser.json"
+        "ProxyCallScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ProxyCall.s.sol/ProxyCallScript.json"
+        }
+      }
+    },
+    "script/Token.s.sol": {
+      "lastModificationDate": 1674231879938,
+      "contentHash": "171043265dacf98d25f837ab9b8569e3",
+      "sourceName": "script/Token.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/token/Token.sol"
+      ],
+      "versionRequirement": "^0.6.0",
+      "artifacts": {
+        "TokenScript": {
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Token.s.sol/TokenScript.json"
         }
       }
     },
     "src/Counter.sol": {
-      "lastModificationDate": 1674061351790,
-      "contentHash": "ae6c800a2b4c57768024d6e9423d39e8",
+      "lastModificationDate": 1674166397134,
+      "contentHash": "22b3b196fa914b8ce7442b72f1a1d0f5",
       "sourceName": "src/Counter.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -921,22 +1015,311 @@
         }
       },
       "imports": [],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
         "Counter": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "Counter.sol/Counter.json"
         }
       }
     },
+    "src/coin-flip/AbstractCoinFlip.sol": {
+      "lastModificationDate": 1674166408509,
+      "contentHash": "36d9ef1b4cc36de8f4cae0608cebbc0c",
+      "sourceName": "src/coin-flip/AbstractCoinFlip.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "AbstractCoinFlip": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "AbstractCoinFlip.sol/AbstractCoinFlip.json"
+        }
+      }
+    },
+    "src/coin-flip/CoinFlip.sol": {
+      "lastModificationDate": 1674166405575,
+      "contentHash": "b4d0fdb04314f21a10866b7eca934bd9",
+      "sourceName": "src/coin-flip/CoinFlip.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/coin-flip/AbstractCoinFlip.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "CoinFlip": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlip.sol/CoinFlip.json"
+        }
+      }
+    },
+    "src/coin-flip/CoinFlipGuesser.sol": {
+      "lastModificationDate": 1674167953698,
+      "contentHash": "e6330d5d6c9caab482fcd098e388a500",
+      "sourceName": "src/coin-flip/CoinFlipGuesser.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/coin-flip/AbstractCoinFlip.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "CoinFlipGuesser": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlipGuesser.sol/CoinFlipGuesser.json"
+        }
+      }
+    },
+    "src/delegate/Delegate.sol": {
+      "lastModificationDate": 1674610250749,
+      "contentHash": "cde151cc108664c3f3846d929df461ce",
+      "sourceName": "src/delegate/Delegate.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "Delegate": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Delegate.sol/Delegate.json"
+        },
+        "Delegation": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Delegate.sol/Delegation.json"
+        }
+      }
+    },
+    "src/telephone/ProxyCall.sol": {
+      "lastModificationDate": 1674225578613,
+      "contentHash": "de52ffb0826e7e7d859af82ee8e3bfd6",
+      "sourceName": "src/telephone/ProxyCall.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/telephone/Telephone.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "ProxyCall": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ProxyCall.sol/ProxyCall.json"
+        }
+      }
+    },
+    "src/telephone/Telephone.sol": {
+      "lastModificationDate": 1674225576900,
+      "contentHash": "cab9d3aa7487fcb931cee8e18f84d8b9",
+      "sourceName": "src/telephone/Telephone.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "Telephone": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Telephone.sol/Telephone.json"
+        }
+      }
+    },
+    "src/token/Token.sol": {
+      "lastModificationDate": 1674230088924,
+      "contentHash": "1236316bdfb70fa1a0209b0eedc2c548",
+      "sourceName": "src/token/Token.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.6.0",
+      "artifacts": {
+        "Token": {
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Token.sol/Token.json"
+        }
+      }
+    },
     "test/CoinFlipGuesser.t.sol": {
-      "lastModificationDate": 1674164795229,
-      "contentHash": "a55a94696f84a0eb3e11fb2322c982f3",
+      "lastModificationDate": 1674229386519,
+      "contentHash": "444235e96a9511379978c6158c9d5a18",
       "sourceName": "test/CoinFlipGuesser.t.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -976,11 +1359,11 @@
         "lib/forge-std/src/console.sol",
         "lib/forge-std/src/console2.sol",
         "lib/forge-std/src/interfaces/IMulticall3.sol",
-        "src/AbstractCoinFlip.sol",
-        "src/CoinFlip.sol",
-        "src/CoinFlipGuesser.sol"
+        "src/coin-flip/AbstractCoinFlip.sol",
+        "src/coin-flip/CoinFlip.sol",
+        "src/coin-flip/CoinFlipGuesser.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
         "CoinFlipGuesserTest": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "CoinFlipGuesser.t.sol/CoinFlipGuesserTest.json"
@@ -988,14 +1371,14 @@
       }
     },
     "test/Counter.t.sol": {
-      "lastModificationDate": 1674164000120,
-      "contentHash": "b1a6521ba9c61d5266bab1fc9a057d68",
+      "lastModificationDate": 1674166416136,
+      "contentHash": "5f8f551f551b9de4801c5cca6749b059",
       "sourceName": "test/Counter.t.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
             "enabled": true,
-            "runs": 200
+            "runs": 10000000
           },
           "metadata": {
             "bytecodeHash": "ipfs",
@@ -1037,10 +1420,68 @@
         "lib/forge-std/src/interfaces/IMulticall3.sol",
         "src/Counter.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": "=0.8.17",
       "artifacts": {
         "CounterTest": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "Counter.t.sol/CounterTest.json"
+        }
+      }
+    },
+    "test/ProxyCall.t.sol": {
+      "lastModificationDate": 1674226668809,
+      "contentHash": "940f65feb1bdbb2fe460fce6f75b990e",
+      "sourceName": "test/ProxyCall.t.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/lib/ds-test/src/test.sol",
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/StdAssertions.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdError.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Test.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/telephone/ProxyCall.sol",
+        "src/telephone/Telephone.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "ProxyCallTest": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ProxyCall.t.sol/ProxyCallTest.json"
         }
       }
     }
