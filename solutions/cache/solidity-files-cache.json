@@ -90,13 +90,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/CommonBase.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/ScriptBase.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/TestBase.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
@@ -148,7 +148,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Script.sol/Script.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Script.sol/Script.json"
         }
       }
     },
@@ -233,7 +233,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdChains.sol/StdChains.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
@@ -276,10 +276,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheats.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
@@ -361,7 +361,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdJson.sol/stdJson.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
@@ -401,7 +401,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdMath.sol/stdMath.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
@@ -443,10 +443,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorage.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
@@ -489,7 +489,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdUtils.sol/StdUtils.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
@@ -584,10 +584,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/Vm.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/VmSafe.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
@@ -627,7 +627,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "console.sol/console.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
@@ -667,7 +667,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "console2.sol/console2.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
@@ -707,7 +707,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "IMulticall3.sol/IMulticall3.0.6.12.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
         }
       }
     },
@@ -874,7 +874,7 @@
       }
     },
     "script/Force.s.sol": {
-      "lastModificationDate": 1674613431056,
+      "lastModificationDate": 1674613794574,
       "contentHash": "c20d3931092f65c8b2d5b10fa8e17752",
       "sourceName": "script/Force.s.sol",
       "solcConfig": {
@@ -1034,6 +1034,60 @@
       "artifacts": {
         "TokenScript": {
           "0.6.12+commit.27d51765.Darwin.appleclang": "Token.s.sol/TokenScript.json"
+        }
+      }
+    },
+    "script/Vault.s.sol": {
+      "lastModificationDate": 1674614843460,
+      "contentHash": "b3eacb7eca5f662293b77a7a65d5a8b8",
+      "sourceName": "script/Vault.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/vault/Vault.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "CounterScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vault.s.sol/CounterScript.json"
         }
       }
     },
@@ -1445,6 +1499,46 @@
       "artifacts": {
         "Token": {
           "0.6.12+commit.27d51765.Darwin.appleclang": "Token.sol/Token.json"
+        }
+      }
+    },
+    "src/vault/Vault.sol": {
+      "lastModificationDate": 1674613882409,
+      "contentHash": "5afbf122e229170bdd173a0fa241bf54",
+      "sourceName": "src/vault/Vault.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "Vault": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vault.sol/Vault.json"
         }
       }
     },
