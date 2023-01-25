@@ -90,13 +90,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/CommonBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/CommonBase.0.6.12.json"
         },
         "ScriptBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/ScriptBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/ScriptBase.0.6.12.json"
         },
         "TestBase": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/TestBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/TestBase.0.6.12.json"
         }
       }
     },
@@ -148,7 +148,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Script.sol/Script.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Script.sol/Script.0.6.12.json"
         }
       }
     },
@@ -233,7 +233,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdChains.sol/StdChains.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdChains.sol/StdChains.0.6.12.json"
         }
       }
     },
@@ -276,10 +276,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheats.0.6.12.json"
         },
         "StdCheatsSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.0.6.12.json"
         }
       }
     },
@@ -361,7 +361,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdJson.sol/stdJson.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdJson.sol/stdJson.0.6.12.json"
         }
       }
     },
@@ -401,7 +401,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdMath.sol/stdMath.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdMath.sol/stdMath.0.6.12.json"
         }
       }
     },
@@ -443,10 +443,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorage.0.6.12.json"
         },
         "stdStorageSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.0.6.12.json"
         }
       }
     },
@@ -489,7 +489,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdUtils.sol/StdUtils.0.6.12.json"
         }
       }
     },
@@ -584,10 +584,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/Vm.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/Vm.0.6.12.json"
         },
         "VmSafe": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/VmSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/VmSafe.0.6.12.json"
         }
       }
     },
@@ -627,7 +627,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "console.sol/console.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console.sol/console.0.6.12.json"
         }
       }
     },
@@ -667,7 +667,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "console2.sol/console2.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console2.sol/console2.0.6.12.json"
         }
       }
     },
@@ -707,7 +707,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.6.12+commit.27d51765.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "IMulticall3.sol/IMulticall3.0.6.12.json"
         }
       }
     },
@@ -820,7 +820,7 @@
       }
     },
     "script/Delegate.s.sol": {
-      "lastModificationDate": 1674611102860,
+      "lastModificationDate": 1674611504813,
       "contentHash": "01127e45fbf1970c202d25a5a21ab19b",
       "sourceName": "script/Delegate.s.sol",
       "solcConfig": {
@@ -870,6 +870,61 @@
       "artifacts": {
         "DelegateScript": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "Delegate.s.sol/DelegateScript.json"
+        }
+      }
+    },
+    "script/Force.s.sol": {
+      "lastModificationDate": 1674613431056,
+      "contentHash": "c20d3931092f65c8b2d5b10fa8e17752",
+      "sourceName": "script/Force.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/force/Force.sol",
+        "src/force/ForcePayable.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "ForceScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Force.s.sol/ForceScript.json"
         }
       }
     },
@@ -1186,6 +1241,88 @@
         },
         "Delegation": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "Delegate.sol/Delegation.json"
+        }
+      }
+    },
+    "src/force/Force.sol": {
+      "lastModificationDate": 1674611863817,
+      "contentHash": "cee1fb11d0a72fa2fda2153c304bcdac",
+      "sourceName": "src/force/Force.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "Force": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Force.sol/Force.json"
+        }
+      }
+    },
+    "src/force/ForcePayable.sol": {
+      "lastModificationDate": 1674613415497,
+      "contentHash": "9ef6c5b29d0da8dc200d94a6c49f9642",
+      "sourceName": "src/force/ForcePayable.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/force/Force.sol"
+      ],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "ForcePayable": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ForcePayable.sol/ForcePayable.json"
         }
       }
     },
