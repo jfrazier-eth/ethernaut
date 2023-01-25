@@ -928,6 +928,61 @@
         }
       }
     },
+    "script/King.s.sol": {
+      "lastModificationDate": 1674615949619,
+      "contentHash": "a017834d0e63510d0c978a74c9e8979b",
+      "sourceName": "script/King.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/king/King.sol",
+        "src/king/KingForever.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "KingScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "King.s.sol/KingScript.json"
+        }
+      }
+    },
     "script/ProxyCall.s.sol": {
       "lastModificationDate": 1674229399047,
       "contentHash": "be616e6a8bc42d6e90fbd0e55f90102d",
@@ -1377,6 +1432,88 @@
       "artifacts": {
         "ForcePayable": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "ForcePayable.sol/ForcePayable.json"
+        }
+      }
+    },
+    "src/king/King.sol": {
+      "lastModificationDate": 1674615062054,
+      "contentHash": "cc81b897f85a62ede8a439b6d6bd45c2",
+      "sourceName": "src/king/King.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "King": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "King.sol/King.json"
+        }
+      }
+    },
+    "src/king/KingForever.sol": {
+      "lastModificationDate": 1674616091278,
+      "contentHash": "4fd1bffdb28d1289476fed7996bfb53f",
+      "sourceName": "src/king/KingForever.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/king/King.sol"
+      ],
+      "versionRequirement": "^0.8.0",
+      "artifacts": {
+        "KingForever": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "KingForever.sol/KingForever.json"
         }
       }
     },
