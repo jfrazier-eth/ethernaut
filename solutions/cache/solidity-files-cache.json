@@ -90,13 +90,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/CommonBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/ScriptBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/TestBase.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
@@ -148,7 +148,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Script.sol/Script.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Script.sol/Script.json"
         }
       }
     },
@@ -233,7 +233,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdChains.sol/StdChains.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
@@ -276,10 +276,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
@@ -361,7 +361,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
@@ -401,7 +401,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdMath.sol/stdMath.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
@@ -443,10 +443,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
@@ -489,7 +489,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
@@ -584,10 +584,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/VmSafe.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
@@ -627,7 +627,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
@@ -667,7 +667,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
@@ -707,7 +707,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
+          "0.6.12+commit.27d51765.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
         }
       }
     },
@@ -929,7 +929,7 @@
       }
     },
     "script/King.s.sol": {
-      "lastModificationDate": 1674615949619,
+      "lastModificationDate": 1674616135342,
       "contentHash": "a017834d0e63510d0c978a74c9e8979b",
       "sourceName": "script/King.s.sol",
       "solcConfig": {
@@ -1035,6 +1035,61 @@
       "artifacts": {
         "ProxyCallScript": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "ProxyCall.s.sol/ProxyCallScript.json"
+        }
+      }
+    },
+    "script/Reentrance.s.sol": {
+      "lastModificationDate": 1674788909563,
+      "contentHash": "a0bd19d88564881473e79b81fadedeb4",
+      "sourceName": "script/Reentrance.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/forge-std/src/interfaces/IMulticall3.sol",
+        "src/re-entrancy/Reentrance.sol",
+        "src/re-entrancy/Reentrant.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "ReentranceScript": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Reentrance.s.sol/ReentranceScript.json"
         }
       }
     },
@@ -1514,6 +1569,88 @@
       "artifacts": {
         "KingForever": {
           "0.8.17+commit.8df45f5f.Darwin.appleclang": "KingForever.sol/KingForever.json"
+        }
+      }
+    },
+    "src/re-entrancy/Reentrance.sol": {
+      "lastModificationDate": 1674788221345,
+      "contentHash": "a242161899a2a3973a4ef4916ee96798",
+      "sourceName": "src/re-entrancy/Reentrance.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "Reentrance": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Reentrance.sol/Reentrance.json"
+        }
+      }
+    },
+    "src/re-entrancy/Reentrant.sol": {
+      "lastModificationDate": 1674789133051,
+      "contentHash": "00afe86bf8aefaef22d7cc621a810307",
+      "sourceName": "src/re-entrancy/Reentrant.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 10000000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/re-entrancy/Reentrance.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "Reentrant": {
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Reentrant.sol/Reentrant.json"
         }
       }
     },
